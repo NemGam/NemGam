@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+I'm a software developer passionate about game development! :joystick:\
+I like to use Unity <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width = "20"> and Unreal <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" width = "20">\
+I also love to solve programming challenges like _Advent of Code_, _LeetCode_, _Codeforces_, as well as by making games without any engine with C++!\
+\
 <!--
+Would you like to connect?
+
+![](<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width = "30" href="google.com">)
 **NemGam/NemGam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
