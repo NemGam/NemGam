@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I'm a software developer passionate about game development! :joystick:\
-I like to use Unity <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width = "20"> and Unreal <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" width = "20">\
+I like to use Unity <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width = "20"> and Unreal <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" width = "20" style="align:bottom">\
 I also love to solve programming challenges like _Advent of Code_, _LeetCode_, _Codeforces_, as well as by making games without any engine with C++!\
-\
+
 <!--
 Would you like to connect?
 
