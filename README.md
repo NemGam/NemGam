@@ -1,12 +1,17 @@
 ### Hi there 👋
 
 I'm a software developer passionate about game development! :joystick:\
-I like to use Unity <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width = "20"> and Unreal <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" width = "20" style="align:bottom">\
-I also love to solve programming challenges like _Advent of Code_, _LeetCode_, _Codeforces_, as well as by making games without any engine with C++!
-\
-Would you like to connect?\
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width = "35">](https://linkedin.com/in/vkrukhmalev)
 
+I love to solve programming challenges like _Advent of Code_, _LeetCode_, _Codeforces_, as well as making games without any engine with C++!
+
+
+<b>Socials</b> <br>
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width = "35">](https://linkedin.com/in/vkrukhmalev)
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width = "35">](https://github.com/NemGam#gh-dark-mode-only)
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width = "35">](https://github.com/NemGam#gh-light-mode-only)
+
+<b>Skills</b> <br>
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,python,js,html,css,react,dotnet,mongodb,blender,postgres,git&perline=7)](https://skillicons.dev)
 
 Check out some of my games!\
 [<img src="https://user-images.githubusercontent.com/1271004/216844650-07f53beb-78ea-4991-9b00-741c0ba6671b.svg" width = "35">](https://nemario.itch.io#gh-dark-mode-only)
