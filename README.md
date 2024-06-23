@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer passionate about game development! :joystick:\
+I'm a software developer passionate about game development! :joystick:
 
 I love to solve programming challenges like _Advent of Code_, _LeetCode_, _Codeforces_, as well as making games without any engine with C++!
 
