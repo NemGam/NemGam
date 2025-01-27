@@ -1,6 +1,6 @@
-<h1> Hi there 👋 </h1>
+<h2> Hi, I'm Vlad👋 </h2>
 
-I'm a software developer passionate about game development! :joystick:
+I'm a versatile developer with experience in making video games and full-stack applications.
 
 I love to solve programming challenges like [_Advent of Code_](https://adventofcode.com), [_LeetCode_](https://leetcode.com/u/NemGam/), [_Codeforces_](https://codeforces.com/profile/Nemario), as well as making games without any engine with C++!
 
