@@ -4,6 +4,7 @@ I'm a versatile developer with experience in making video games and full-stack a
 
 I love to solve programming challenges like [_Advent of Code_](https://adventofcode.com), [_LeetCode_](https://leetcode.com/u/NemGam/), [_Codeforces_](https://codeforces.com/profile/Nemario), as well as making games without any engine with C++!
 
+Some Irror
 
 <b><h2>Socials</b></h2>
 [<img src="https://skillicons.dev/icons?i=linkedin">](https://linkedin.com/in/vkrukhmalev)
