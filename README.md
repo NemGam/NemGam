@@ -1,33 +1,37 @@
-<h2> Hi, I'm Vlad👋 </h2>
+# 👋 Hi there, I'm Vlad Krukhmalev
 
-I'm a versatile developer with experience in making video games and full-stack applications.
+I'm a Software Engineer and Computer Science student with a strong foundation in full-stack web development and game development.  
+Driven by curiosity and a passion for building meaningful technology, I enjoy working on projects that combine creativity, technical depth, and real-world impact.
 
-I love to solve programming challenges like [_Advent of Code_](https://adventofcode.com), [_LeetCode_](https://leetcode.com/u/NemGam/), [_Codeforces_](https://codeforces.com/profile/Nemario), as well as making games without any engine with C++!
+---
 
-<b><h2>Socials</b></h2>
-[<img src="https://skillicons.dev/icons?i=linkedin">](https://linkedin.com/in/vkrukhmalev)
-[<img src="https://skillicons.dev/icons?i=github&theme=dark">](https://github.com/NemGam#gh-dark-mode-only)
-[<img src="https://skillicons.dev/icons?i=github&theme=light">](https://github.com/NemGam#gh-light-mode-only)
+## 🧠 Areas of Interest
 
-<b><h2>Skills</h2></b>
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,python,js,html,css,react,dotnet,mongodb,blender,postgres,git&perline=9&theme=dark)](https://linkedin.com/in/vkrukhmalev#gh-dark-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,python,js,html,css,react,dotnet,mongodb,blender,postgres,git&perline=9&theme=light)](https://linkedin.com/in/vkrukhmalev#gh-light-mode-only)
+- 💻 Full-Stack Web Development (React, Node.js, Express, Supabase, MongoDB)
+- 🎮 Game Development (Unity, C#, custom engines with C++/SDL2)
+- 🧪 AI & Machine Learning (NLP, fine-tuning LLMs, sentiment analysis)
+- ☁️ Cloud & Infrastructure (Docker, NGINX, Redis, Azure)
+- 🔐 Security & Backend Architecture
 
-<b><h2>Check out some of my games!
-[<img src="https://user-images.githubusercontent.com/1271004/216844650-07f53beb-78ea-4991-9b00-741c0ba6671b.svg" width = "35">](https://nemario.itch.io#gh-dark-mode-only)
-[<img src="https://user-images.githubusercontent.com/1271004/216844652-411515a2-b7ef-4096-9bb2-4aff3dcff121.svg" width = "35">](https://nemario.itch.io#gh-light-mode-only)
-</h2></b>
-<!--
-**NemGam/NemGam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+`JavaScript` `TypeScript` `Python` `C++` `C#` `HTML` `CSS` `SQL`
+
+**Frameworks & Libraries**  
+`React` `Express.js` `Node.js` `Unity` `SDL2` `Unreal` `WPF`
+
+**Tools & Platforms**  
+`Docker` `NGINX` `Redis` `MongoDB` `PostgreSQL` `Supabase` `Git` `GitHub` `Azure`
+
+**Dev Tools**  
+`Visual Studio Code` `Visual Studio` `Figma` `Bambu Studio` `Postman` `npm/yarn` `Jira`
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkrukhmalev)  
+[![Website](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://vkrukhmalev.com)
