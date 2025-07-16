@@ -5,13 +5,6 @@ Driven by curiosity and a passion for building meaningful technology, I enjoy wo
 
 ---
 
-## Currently learning/building
-
-Server authoritative multiplayer web game. \
-Stack: `React`, `FastAPI`, `Python`, `TypeScript`, `Nginx`
-
----
-
 ## Areas of Interest
 
 - 💻 Full-Stack Web Development (React, Node.js, Express, Supabase, MongoDB)
